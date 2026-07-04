@@ -1,7 +1,7 @@
 <!-- ======================= HERO ======================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:00B4D8,100:00F5A0&height=200&section=header&text=K%20M%20Asieb%20Hasan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20%26%20Automation%20Specialist&descSize=20&descAlignY=55" alt="banner"/>
+<img src="banner.svg" alt="K M Asieb Hasan — Full-Stack Engineer · AI & Automation Specialist" width="100%"/>
 
 <a href="https://github.com/asiebHasan">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C5CE7&center=true&vCenter=true&width=650&lines=I+build+products+end-to-end+%E2%80%94+and+then+automate+them.;5%2B+years+shipping+production+web+apps;RAG+pipelines+%C2%B7+LLM+integrations+%C2%B7+scraping+bots;React+%C2%B7+Laravel+%C2%B7+Django+%C2%B7+Node.js+%C2%B7+PostgreSQL" alt="Typing SVG" />
@@ -114,9 +114,6 @@ I also do machine learning research — three peer-reviewed publications:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=asiebHasan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiebHasan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages"/>
-
 <img src="https://streak-stats.demolab.com?user=asiebHasan&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 
 <img src="https://ghchart.rshah.org/6C5CE7/asiebHasan" alt="Contribution graph" width="90%"/>
@@ -144,6 +141,8 @@ I also do machine learning research — three peer-reviewed publications:
 
 *Fastest response guaranteed — my inbox has better uptime than most APIs.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00B4D8,100:6C5CE7&height=120&section=footer" alt="footer"/>
+---
+
+<sub>⭐ This README lives in <a href="https://github.com/asiebHasan/asiebHasan">asiebHasan/asiebHasan</a>. Thanks for scrolling — virtual high-five. ✋</sub>
 
 </div>
