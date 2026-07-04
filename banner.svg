@@ -1,0 +1,31 @@
+<svg width="1280" height="240" viewBox="0 0 1280 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6C5CE7"/>
+      <stop offset="50%" stop-color="#00B4D8"/>
+      <stop offset="100%" stop-color="#00F5A0"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.04"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="240" fill="url(#bg)"/>
+
+  <path d="M0,190 C220,140 420,230 640,185 C860,140 1060,225 1280,175 L1280,240 L0,240 Z" fill="url(#wave)"/>
+  <path d="M0,210 C260,170 480,245 720,205 C940,170 1120,235 1280,200 L1280,240 L0,240 Z" fill="#ffffff" fill-opacity="0.10"/>
+
+  <circle cx="120" cy="50" r="3" fill="#ffffff" fill-opacity="0.5"/>
+  <circle cx="1180" cy="70" r="4" fill="#ffffff" fill-opacity="0.4"/>
+  <circle cx="1040" cy="35" r="2.5" fill="#ffffff" fill-opacity="0.5"/>
+  <circle cx="240" cy="105" r="2" fill="#ffffff" fill-opacity="0.4"/>
+  <circle cx="920" cy="130" r="3" fill="#ffffff" fill-opacity="0.3"/>
+
+  <text x="90" y="60" font-family="'Fira Code', 'Consolas', monospace" font-size="20" fill="#ffffff" fill-opacity="0.55">&lt;/&gt;</text>
+  <text x="1150" y="150" font-family="'Fira Code', 'Consolas', monospace" font-size="20" fill="#ffffff" fill-opacity="0.5">{ }</text>
+
+  <text x="640" y="105" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="800" fill="#ffffff" letter-spacing="1">K M Asieb Hasan</text>
+  <text x="640" y="150" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="500" fill="#ffffff" fill-opacity="0.92">Full-Stack Engineer &#183; AI &amp; Automation Specialist</text>
+  <text x="640" y="185" text-anchor="middle" font-family="'Fira Code', 'Consolas', monospace" font-size="14" fill="#ffffff" fill-opacity="0.75">React &#183; Laravel &#183; Django &#183; Node.js &#183; PostgreSQL &#183; RAG/LLM &#183; Bots</text>
+</svg>
