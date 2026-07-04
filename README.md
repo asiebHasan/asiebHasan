@@ -114,12 +114,12 @@ I also do machine learning research — three peer-reviewed publications:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=asiebHasan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiebHasan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=asiebHasan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiebHasan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=asiebHasan&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=asiebHasan&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
+<img src="https://ghchart.rshah.org/6C5CE7/asiebHasan" alt="Contribution graph" width="90%"/>
 
 </div>
 
